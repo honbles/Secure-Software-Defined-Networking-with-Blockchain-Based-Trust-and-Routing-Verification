@@ -1,0 +1,1 @@
+#!/bin/bash\n# Run Blockchain Server
